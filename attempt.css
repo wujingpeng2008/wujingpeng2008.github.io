@@ -1,1 +1,8 @@
-
+h1{
+ font-color：#aaa；
+ font-weight:300;
+ line-height:30px;
+}
+p{
+ font-color:#ddd;
+}
